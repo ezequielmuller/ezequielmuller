@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 Ezequiel Muller</h1>
 <p align="center">
-  <strong>Web Developer</strong> · <strong>Computer Science Student</strong> · <strong>IT Technician</strong>
+  <strong>Developer</strong> · <strong>Computer Science Student</strong> · <strong>IT Technician</strong>
 </p>
 
 ---
