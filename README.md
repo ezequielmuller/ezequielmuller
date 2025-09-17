@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,html,css,tailwindcss,js,ts,vue&theme=dark" />
-  <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" alt="Quasar" width="48" height="48" style="margin: 0 4px; vertical-align: middle;" />
+  <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" alt="Quasar" width="48" height="48" style="margin: 0 4px; vertical-align: middle; background-color: #313131; padding: 8px; border-radius: 8px;" />
   <img src="https://skillicons.dev/icons?i=nuxt,java,github&theme=dark" />
 </p>
 
