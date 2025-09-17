@@ -26,7 +26,7 @@
 ## 🛠 My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,tailwindcss,js,ts,vue,nuxt,java,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,tailwindcss,js,ts,vue,quasar,nuxt,java,github&theme=dark" />
 </p>
 
 ---
