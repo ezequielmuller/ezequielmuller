@@ -7,9 +7,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=radical&hide_border=true&hide=java,php" height="150"/>
-</p>
+
 
 <p align="center">
   <a href="https://www.instagram.com/ezequielmuller__" target="_blank">
