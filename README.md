@@ -12,11 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezequielmuller&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
   <a href="https://www.instagram.com/ezequielmuller__" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
