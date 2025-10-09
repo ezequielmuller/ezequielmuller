@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 Ezequiel Muller</h1>
+<h1 align="center">👨🏻‍💻 Ezequiel H. G. Muller</h1>
 <p align="center">
   <strong>Software Developer</strong> · <strong>Computer Science Student</strong> · <strong>IT Technician</strong>
 </p>
