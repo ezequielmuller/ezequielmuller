@@ -8,11 +8,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielhgmuller&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezequielhgmuller&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezequielmuller&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 
