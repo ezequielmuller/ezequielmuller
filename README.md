@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,html,css,tailwindcss,js,ts,vue&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nuxt,java,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nuxt,github&theme=dark" />
 </p>
 
 ---
