@@ -8,7 +8,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&langs_count=10&theme=dark&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
@@ -26,7 +29,7 @@
 ## 🛠 My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,html,css,tailwindcss,js,ts,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,git,tailwindcss,js,ts,vue&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nuxt" />
 </p>
 
