@@ -46,10 +46,10 @@
       <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="40"/><br/>
       <strong>Vue.js</strong>
     </td>
-   <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nuxt&theme=dark" width="40"/><br/>
-      <strong>Nuxt</strong>
-    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40" alt="Quasar Logo"/><br/>
+      <strong>Quasar</strong>
+  </td>
   </tr>
 </table>
 
