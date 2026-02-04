@@ -9,11 +9,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ezequielmuller&show_icons=true&theme=dark&hide_border=true"
-    height="165"
+    src="https://metrics.lecoq.io/ezequielmuller?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&config.timezone=America/Sao_Paulo"
   />
 </p>
-
 
 <p align="center">
   <a href="https://site-ezequielhgmuller.vercel.app/" target="_blank">
