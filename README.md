@@ -8,25 +8,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&langs_count=10&theme=dark&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
+  <!-- Site / Portfólio -->
   <a href="https://site-ezequielhgmuller.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/SITE%20%2F%20PORTFOLIO-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=2563EB" />
   </a>
   &nbsp;&nbsp;
+  <!-- LinkedIn (igual antes) -->
   <a href="https://www.linkedin.com/in/ezequielhgmuller/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=2563EB" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
+  <!-- Instagram (igual antes) -->
   <a href="https://www.instagram.com/ezequielmuller__" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2563EB" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
