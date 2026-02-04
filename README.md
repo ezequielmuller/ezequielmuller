@@ -16,15 +16,15 @@
 
 <p align="center">
   <a href="https://site-ezequielhgmuller.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/SITE%20%2F%20PORTFOLIO-000000?style=for-the-badge&logo=code&logoColor=white" />
+    <img src="https://img.shields.io/badge/SITE%20%2F%20PORTFOLIO-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=2563EB" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ezequielhgmuller/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=2563EB" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/ezequielmuller__" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-FFFFFF?style=for-the-badge&logo=instagram&logoColor=2563EB" />
   </a>
 </p>
 
