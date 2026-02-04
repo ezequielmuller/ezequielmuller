@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://site-ezequielhgmuller.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/SITE%20%2F%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/SITE%20%2F%20PORTFOLIO-000000?style=for-the-badge&logo=code&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ezequielhgmuller/" target="_blank">
