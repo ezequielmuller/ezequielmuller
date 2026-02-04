@@ -1,16 +1,116 @@
-## Hi there 👋
+<h1 align="center">👨🏻‍💻 Ezequiel H. G. Muller</h1>
+<p align="center">
+  <strong>FullStack Developer</strong> · <strong>Computer Science Student</strong> · <strong>IT Technician</strong>
+</p>
 
-<!--
-**ezequielmuller/ezequielmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&langs_count=10&theme=dark&hide_border=true" 
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <a href="https://site-ezequielhgmuller.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/SITE%20%2F%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ezequielhgmuller/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ezequielmuller__" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ My Stack
+
+### 🖥️ Frontend
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40"/><br/>
+      <strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/><br/>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/><br/>
+      <strong>TypeScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="40"/><br/>
+      <strong>Vue.js</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40" alt="Quasar Logo"/><br/>
+      <strong>Quasar</strong>
+  </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Backend & Database
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nest&theme=dark" width="40"/><br/>
+      <strong>Nest JS</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/><br/>
+      <strong>Java (Servlet, DAO e JDBC)</strong>
+    </td>
+       <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40"/><br/>
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/><br/>
+      <strong>MySQL</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tools
+<table>
+  <tr>
+     <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/>
+      <strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/><br/>
+      <strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40"/><br/>
+      <strong>Figma</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" style="{border-radius="10px"}"/><br/>
+      <strong>Draw.io</strong>
+    </td>
+
+>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  💻 <strong>Always evolving and learning.</strong>
+</p>
+
