@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://site-ezequielhgmuller.vercel.app/" target="_blank">
+  <a href="https://ezequielmuller.com.br" target="_blank">
     <img src="https://img.shields.io/badge/SITE%20%2F%20PORTFOLIO-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=2563EB" />
   </a>
   &nbsp;&nbsp;
