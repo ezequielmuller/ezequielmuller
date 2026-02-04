@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ezequielmuller&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=ezequielmuller&show_icons=true&theme=dark&hide_border=true"
     height="165"
   />
 </p>
