@@ -30,34 +30,32 @@
 ---
 ## 🛠️ Stack
 
-<h3 align="center">⭐ Main</h3>
 
 <p align="center">
+<h3 align="center">⭐ Main</h3>
   <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
 </p>
 
 &emsp;&emsp;&emsp;&emsp;
 
-<h3 align="center">🖥️ Frontend</h3>
 
 <p align="center">
+<h3 align="center">🖥️ Frontend</h3>
   <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
   <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
 </p>
 
 <br>
 
-<h3 align="center">⚙️ Backend & Database</h3>
 
 <p align="center">
+<h3 align="center">⚙️ Backend & Database</h3>
   <img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
 </p>
 
 &emsp;&emsp;&emsp;&emsp;
-
-<h3 align="center">🛠️ Tools</h3>
-
 <p align="center">
+  <h3 align="center">🛠️ Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
 </p>
