@@ -31,22 +31,18 @@
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h3>⭐ Main</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-    </td>
-    <td align="center">
-      <h3>🖥️ Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
-      <br/>
-      <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">⭐ Main</h3>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+</p>
+
+<h3 align="center">🖥️ Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
+  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
+</p>
 
 <h3 align="center">⚙️ Backend & Database</h3>
 
@@ -61,6 +57,8 @@
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
 </p>
 
+---
+
 <p align="center">
-  🛠️🧑🏻‍💻<strong>Transformando ideias em aplicações reais.</strong>
+  🛠️🧑🏻‍💻 <strong>Transformando ideias em aplicações reais.</strong>
 </p>
