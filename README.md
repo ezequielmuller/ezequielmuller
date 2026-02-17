@@ -8,10 +8,9 @@
 
 ## 📫 Contact
 
-Se quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades:
-
 - 🌐 Portfolio: https://ezequielmuller.com.br  
-- 💼 LinkedIn: https://www.linkedin.com/in/ezequielhgmuller/  
+- 💼 LinkedIn: https://www.linkedin.com/in/ezequielhgmuller/
+- 📲 Instagram: https://www.instagram.com/ezequielmuller__/ 
 
 ---
 
@@ -24,7 +23,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 ### ⭐ Main
 <p>
@@ -51,5 +50,5 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades:
 ---
 
 <p align="center">
-  <strong>Building real solutions with clean and scalable code.</strong>
+  <strong>Transformando ideias em aplicações reais.</strong>
 </p>
