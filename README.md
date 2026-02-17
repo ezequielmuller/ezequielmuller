@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
 </p>
 
-<br>
+&emsp;&emsp;&emsp;&emsp;
 
 <h3 align="center">🖥️ Frontend</h3>
 
@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
 </p>
 
-<br>
+&emsp;&emsp;&emsp;&emsp;
 
 <h3 align="center">🛠️ Tools</h3>
 
