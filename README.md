@@ -22,30 +22,77 @@
 </p>
 
 ---
-
 ## 🛠️ Stack
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="300">
+
 ### ⭐ Main
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+
+<br><br>
+
+JavaScript • TypeScript
+
+</td>
+
+<td align="center" width="300">
 
 ### 🖥️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
-  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
-</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
+<br>
+<img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
+
+<br><br>
+
+Vue • Tailwind • Quasar
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
 
 ### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
-</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
+
+<br><br>
+
+NestJS • Java • PostgreSQL • MySQL
+
+</td>
+
+<td align="center" width="300">
 
 ### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
-</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+<br>
+<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
+
+<br><br>
+
+Git • GitHub • Figma • Draw.io
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
