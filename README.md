@@ -20,23 +20,9 @@
 
 ---
 
-## 🚀 About Me
-
-Sou desenvolvedor Full Stack com foco em construir aplicações modernas, escaláveis e bem estruturadas.  
-Atualmente curso Ciência da Computação e atuo também como Técnico de TI, o que me proporciona uma visão prática e estratégica da tecnologia.
-
-- 💡 Foco em desenvolvimento web moderno
-- 🧠 Sempre aprendendo novas tecnologias
-- 🔥 Transformando ideias em aplicações reais
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em"
-    src="https://github-readme-stats-fast.vercel.app/api?username=ezequielmuller&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em"
     src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
