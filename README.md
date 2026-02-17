@@ -7,9 +7,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+## 🧠 Most Used Languages
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight"
+  />
+</div>
+
+
+<div align="center">
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ezequielmuller&layout=compact&theme=tokyonight)](https://github.com/Ezequielmuller)
-</p>
+</div>
 
 <p align="center">
   <a href="https://ezequielmuller.com.br" target="_blank">
