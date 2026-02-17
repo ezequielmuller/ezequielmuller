@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### ⭐ Main
 
@@ -39,21 +39,20 @@
 
 <table>
 <tr>
-
-<td align="center" width="140">
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/><br/>
-  <strong>JavaScript</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45"/><br/>
+  <sub><b>JavaScript</b></sub>
 </td>
-
-<td align="center" width="140">
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"/><br/>
-  <strong>TypeScript</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="45"/><br/>
+  <sub><b>TypeScript</b></sub>
 </td>
-
 </tr>
 </table>
 
 </div>
+
+---
 
 ### 🖥️ Frontend
 
@@ -61,26 +60,24 @@
 
 <table>
 <tr>
-
-<td align="center" width="140">
-  <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="50"/><br/>
-  <strong>Vue.js</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="45"/><br/>
+  <sub><b>Vue.js</b></sub>
 </td>
-
-<td align="center" width="140">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"/><br/>
-  <strong>Tailwind CSS</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45"/><br/>
+  <sub><b>Tailwind CSS</b></sub>
 </td>
-
-<td align="center" width="140">
-  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="50"/><br/>
-  <strong>Quasar Framework</strong>
+<td align="center">
+  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="45"/><br/>
+  <sub><b>Quasar</b></sub>
 </td>
-
 </tr>
 </table>
 
 </div>
+
+---
 
 ### ⚙️ Backend & Database
 
@@ -88,32 +85,28 @@
 
 <table>
 <tr>
-
-<td align="center" width="160">
-  <img src="https://skillicons.dev/icons?i=nest&theme=dark" width="50"/><br/>
-  <strong>NestJS</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nest&theme=dark" width="45"/><br/>
+  <sub><b>NestJS</b></sub>
 </td>
-
-<td align="center" width="160">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"/><br/>
-  <strong>Java (Servlet, DAO e JDBC)</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"/><br/>
+  <sub><b>Java</b></sub>
 </td>
-
-<td align="center" width="160">
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="50"/><br/>
-  <strong>PostgreSQL</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="45"/><br/>
+  <sub><b>PostgreSQL</b></sub>
 </td>
-
-<td align="center" width="160">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/><br/>
-  <strong>MySQL</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45"/><br/>
+  <sub><b>MySQL</b></sub>
 </td>
-
 </tr>
 </table>
 
 </div>
 
+---
 
 ### 🛠️ Tools
 
@@ -121,33 +114,29 @@
 
 <table>
 <tr>
-
-<td align="center" width="140">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/><br/>
-  <strong>Git</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/><br/>
+  <sub><b>Git</b></sub>
 </td>
-
-<td align="center" width="140">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/><br/>
-  <strong>GitHub</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/><br/>
+  <sub><b>GitHub</b></sub>
 </td>
-
-<td align="center" width="140">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50"/><br/>
-  <strong>Figma</strong>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="45"/><br/>
+  <sub><b>Figma</b></sub>
 </td>
-
-<td align="center" width="140">
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="50"/><br/>
-  <strong>Draw.io</strong>
+<td align="center">
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="45"/><br/>
+  <sub><b>Draw.io</b></sub>
 </td>
-
 </tr>
 </table>
 
 </div>
 
+---
 
 <p align="center">
-  🛠️ <strong>Transformando ideias em aplicações reais.</strong>
+  <strong>🛠️ Transformando ideias em aplicações reais.</strong>
 </p>
