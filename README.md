@@ -26,9 +26,9 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="300">
+<td align="center" width="50%" style="padding: 40px;">
 
 <h3>⭐ Main</h3>
 
@@ -38,7 +38,7 @@
 
 </td>
 
-<td align="center" width="300">
+<td align="center" width="50%" style="padding: 40px;">
 
 <h3>🖥️ Frontend</h3>
 
@@ -52,7 +52,7 @@
 </tr>
 
 <tr>
-<td align="center" width="300">
+<td align="center" width="50%" style="padding: 40px;">
 
 <h3>⚙️ Backend & Database</h3>
 
@@ -62,7 +62,7 @@
 
 </td>
   
-<td align="center" width="300">
+<td align="center" width="50%" style="padding: 40px;">
 
 <h3>🛠️ Tools</h3>
 
@@ -75,6 +75,9 @@
 </td>
 </tr>
 </table>
+
+</div>
+
 
 </div>
 
