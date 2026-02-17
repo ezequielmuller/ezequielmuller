@@ -55,8 +55,6 @@
 
 </div>
 
----
-
 ### 🖥️ Frontend
 
 <div align="center">
@@ -83,8 +81,6 @@
 </table>
 
 </div>
-
----
 
 ### ⚙️ Backend & Database
 
@@ -118,7 +114,6 @@
 
 </div>
 
----
 
 ### 🛠️ Tools
 
