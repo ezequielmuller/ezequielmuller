@@ -100,18 +100,7 @@
 <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/><br/>
 <strong>Java (Servlet, DAO e JDBC)</strong>
 </td>
-</tr>
-</table>
-
-</td>
-
-<td align="center" valign="top">
-
-### 🗄️ Database
-
-<table>
-<tr>
-<td align="center" width="120">
+  <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40"/><br/>
 <strong>PostgreSQL</strong>
 </td>
