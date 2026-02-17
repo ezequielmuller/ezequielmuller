@@ -28,78 +28,104 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Linguagens
+### ⭐ Main
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java&theme=dark" />
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/><br/>
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="55"/><br/>
+        <strong>TypeScript</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p align="center">
-  <strong>JavaScript</strong> · 
-  <strong>TypeScript</strong> · 
-  <strong>Java (Servlet, DAO, JDBC)</strong>
-</p>
 
 ---
 
-## 🎨 Frontend
+### 🖥️ Frontend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
-  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48"/>
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="55"/><br/>
+        <strong>Vue.js</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="55"/><br/>
+        <strong>Tailwind CSS</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="55"/><br/>
+        <strong>Quasar Framework</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p align="center">
-  <strong>Vue.js</strong> · 
-  <strong>Tailwind CSS</strong> · 
-  <strong>Quasar Framework</strong>
-</p>
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend & Database
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nest&theme=dark" />
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=nest&theme=dark" width="55"/><br/>
+        <strong>NestJS</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="55"/><br/>
+        <strong>Java (Servlet, DAO, JDBC)</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="55"/><br/>
+        <strong>PostgreSQL</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/><br/>
+        <strong>MySQL</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p align="center">
-  <strong>NestJS</strong>
-</p>
 
 ---
 
-## 🗄️ Banco de Dados
+### 🛠️ Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
+  <table>
+    <tr>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/><br/>
+        <strong>Git</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/><br/>
+        <strong>GitHub</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="55"/><br/>
+        <strong>Figma</strong>
+      </td>
+      <td align="center" width="160">
+        <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="55"/><br/>
+        <strong>Draw.io</strong>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p align="center">
-  <strong>PostgreSQL</strong> · 
-  <strong>MySQL</strong>
-</p>
 
 ---
 
-## 🛠️ Ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
-  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48"/>
-</div>
-
 <p align="center">
-  <strong>Git</strong> · 
-  <strong>GitHub</strong> · 
-  <strong>Figma</strong> · 
-  <strong>Draw.io</strong>
-</p>
-
----
-
-<p align="center">
-  🚀 <strong>Transformando ideias em aplicações reais.</strong>
+  🛠️ <strong>Transformando ideias em aplicações reais.</strong>
 </p>
