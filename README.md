@@ -28,11 +28,14 @@
 </p>
 
 ---
-## 🛠️ Tech Stack
+
+## 🛠️ Stack
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" style="border-right: 1px solid #30363d;">
+    
+    <!-- COLUNA ESQUERDA -->
+    <td align="center" width="49%">
 
 <h3>⭐ Main</h3>
 
@@ -50,7 +53,14 @@
 </p>
 
     </td>
-    <td align="center" width="50%">
+
+    <!-- LINHA DIVISÓRIA -->
+    <td width="2%" align="center">
+      <img src="https://via.placeholder.com/1x400/30363d/30363d" width="1" height="300"/>
+    </td>
+
+    <!-- COLUNA DIREITA -->
+    <td align="center" width="49%">
 
 <h3>⚙️ Backend & Database</h3>
 
@@ -68,8 +78,10 @@
 </p>
 
     </td>
+
   </tr>
 </table>
+
 
 ---
 
