@@ -29,9 +29,9 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## ⭐ Main
+### ⭐ Main
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🖥️ Frontend
+### 🖥️ Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
@@ -48,7 +48,7 @@
 
 ---
 
-## ⚙️ Backend & Database
+### ⚙️ Backend & Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
