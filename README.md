@@ -8,8 +8,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://metrics.lecoq.io/ezequielmuller?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&config.timezone=America/Sao_Paulo"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=tokyonight"
   />
 </p>
 
