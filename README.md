@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true" />
+     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
