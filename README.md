@@ -58,7 +58,7 @@
     </td>
     <td align="center" width="120">
       <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40" alt="Quasar Logo"/><br/>
-      <strong>Quasar</strong>
+      <strong>Quasar Framework</strong>
   </td>
   </tr>
 </table>
