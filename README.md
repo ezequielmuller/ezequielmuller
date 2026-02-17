@@ -22,50 +22,30 @@
 </p>
 
 ---
+
 ## 🛠️ Stack
 
-<div align="center">
+### ⭐ Main
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+</p>
 
-<h3>⭐ Main</h3>
+### 🖥️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
+  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
+</p>
 
-<br>
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-
-<br><br><br>
-
-<h3>🖥️ Frontend</h3>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
-<br><br>
-<img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
-
-<br><br><br>
-
-<h3>⚙️ Backend & Database</h3>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
-
-<br><br><br>
-
-<h3>🛠️ Tools</h3>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
-<br><br>
-<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
-
-</div>
-
-
-
-
-</div>
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
+</p>
 
 ---
 
