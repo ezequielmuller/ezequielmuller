@@ -24,8 +24,6 @@
 
 <div align="center">
   <img height="160em"
-    src="https://github-readme-stats-fast.vercel.app/api?username=ezequielmuller&show_icons=true&theme=tokyonight" />
-  <img height="160em"
     src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight" />
 </div>
 
