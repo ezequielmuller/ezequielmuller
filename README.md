@@ -32,41 +32,38 @@
 
 <table align="center" width="100%">
 <tr>
+
 <td align="center" width="50%">
 
 <h3>⭐ Main</h3>
 <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
 
-<br><br>
+<br><br><br>
 
 <h3>🖥️ Frontend</h3>
 <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
-<br>
+<br><br>
 <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
 
 </td>
 
-<td align="center" width="1%">
-  
-|
-
-</td>
-
-<td align="center" width="49%">
+<td align="center" width="50%">
 
 <h3>⚙️ Backend & Database</h3>
 <img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
 
-<br><br>
+<br><br><br>
 
 <h3>🛠️ Tools</h3>
 <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
-<br>
+<br><br>
 <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
 
 </td>
+
 </tr>
 </table>
+
 
 
 ---
