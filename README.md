@@ -28,58 +28,104 @@
 </div>
 
 ---
-
 ## 🛠️ My Stack
 
 <table align="center">
 <tr>
 
 <td align="center" valign="top">
-<table align="center">
-  <tr>
-    <!-- MAIN -->
-    <td align="center" valign="top">
 
 ### ⭐ Main
 
 <table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/><br/>
-      <strong>JavaScript</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/><br/>
-      <strong>TypeScript</strong>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/><br/>
+<strong>JavaScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/><br/>
+<strong>TypeScript</strong>
+</td>
+</tr>
 </table>
 
-    </td>
+</td>
 
-    <!-- FRONTEND -->
-    <td align="center" valign="top">
+<td align="center" valign="top">
 
 ### 🖥️ Frontend
 
 <table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40"/><br/>
-      <strong>Tailwind</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="40"/><br/>
-      <strong>Vue.js</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40"/><br/>
-      <strong>Quasar</strong>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40"/><br/>
+<strong>Tailwind CSS</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" width="40"/><br/>
+<strong>Vue.js</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40"/><br/>
+<strong>Quasar Framework</strong>
+</td>
+</tr>
 </table>
 
-    </td>
-  </tr>
+</td>
+
+</tr>
 </table>
---- ### ⚙️ Backend & Database <table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=nest&theme=dark" width="40"/><br/> <strong>Nest JS</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/><br/> <strong>Java (Servlet, DAO e JDBC)</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40"/><br/> <strong>PostgreSQL</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/><br/> <strong>MySQL</strong> </td> </tr> </table> --- ### 🛠️ Tools <table> <tr> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/> <strong>Git</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/><br/> <strong>GitHub</strong> </td> <td align="center" width="120"> <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40"/><br/> <strong>Figma</strong> </td> <td align="center" width="120"> <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" style="{border-radius="10px"}"/><br/> <strong>Draw.io</strong> </td> > </tr> </table> --- <p align="center"> 💻 <strong>Always evolving and learning.</strong> </p>
+
+<br/>
+
+### ⚙️ Backend & Database
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nest&theme=dark" width="40"/><br/>
+<strong>Nest JS</strong>
+</td>
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/><br/>
+<strong>Java (Servlet, DAO e JDBC)</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40"/><br/>
+<strong>PostgreSQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40"/><br/>
+<strong>MySQL</strong>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛠️ Tools
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="40"/><br/>
+<strong>Git</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/><br/>
+<strong>GitHub</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40"/><br/>
+<strong>Figma</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40"/><br/>
+<strong>Draw.io</strong>
+</td>
+</tr>
+</table>
+
+<p align="center">🧑🏻‍💻 Transformando ideias em aplicações reais.</p>
