@@ -31,13 +31,9 @@
 
 ## 🛠️ My Stack
 
-### 🖥️ Frontend
+### ⭐ Main
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40"/><br/>
-      <strong>Tailwind CSS</strong>
-    </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/><br/>
       <strong>JavaScript</strong>
@@ -45,6 +41,16 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/><br/>
       <strong>TypeScript</strong>
+    </td>
+      </tr>
+</table>
+
+### 🖥️ Frontend
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40"/><br/>
+      <strong>Tailwind CSS</strong>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="40"/><br/>
