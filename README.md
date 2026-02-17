@@ -31,40 +31,36 @@
 
 ## 🛠️ Tech Stack
 
-### ⭐ Main
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>⭐ Main</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+    </td>
+    <td align="center">
+      <h3>🖥️ Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
+      <br/>
+      <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-</p>
+<br/>
 
----
-
-### 🖥️ Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,tailwind&theme=dark" />
-  <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="48" />
-</p>
-
----
-
-### ⚙️ Backend & Database
+<h3 align="center">⚙️ Backend & Database</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nest,java,postgresql,mysql&theme=dark" />
 </p>
 
----
-
-### 🛠️ Tools
+<h3 align="center">🛠️ Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" />
 </p>
 
----
-
 <p align="center">
-  🚀 Transformando ideias em aplicações reais.
+  🛠️🧑🏻‍💻<strong>Transformando ideias em aplicações reais.</strong>
 </p>
