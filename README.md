@@ -7,7 +7,9 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ezequielmuller&layout=compact&theme=tokyonight)](https://github.com/Ezequielmuller)
+</p>
 
 <p align="center">
   <a href="https://ezequielmuller.com.br" target="_blank">
