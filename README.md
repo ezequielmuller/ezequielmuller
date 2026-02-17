@@ -7,11 +7,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=tokyonight"
-  />
-</p>
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ezequielmuller&layout=compact&theme=tokyonight)](https://github.com/Ezequielmuller)
 
 <p align="center">
   <a href="https://ezequielmuller.com.br" target="_blank">
