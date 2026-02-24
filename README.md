@@ -34,7 +34,7 @@
 
 ### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,draw&theme=dark" />
 </p>
 
 ---
