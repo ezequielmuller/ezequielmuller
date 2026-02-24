@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Ezequiel H. G. Muller</h1>
+<p align="center">
+  <strong>Full Stack Developer</strong> • 
+  <strong>Computer Science Student</strong> • 
+  <strong>IT Technician</strong>
+</p>
 
-<!--
-**ezequielmuller/ezequielmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact
+- 🌐 Portfolio: https://ezequielmuller.com.br  
+- 💼 LinkedIn: https://www.linkedin.com/in/ezequielhgmuller/
+- 📲 Instagram: https://www.instagram.com/ezequielmuller__/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160em"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Stack
+
+### 🖥️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,vuejs,tailwind&theme=dark" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=java,postgresql,mysql&theme=dark" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Transformando ideias em aplicações reais.</strong>
+</p>
