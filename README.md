@@ -24,7 +24,7 @@
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,vuejs,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,vuejs,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Database
