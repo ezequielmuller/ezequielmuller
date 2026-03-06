@@ -13,14 +13,9 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielmuller&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🏆 Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ezequielmuller&theme=tokyonight&no-frame=true&row=1&column=6)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true" /> 
+</p>
 
 ---
 
