@@ -13,19 +13,14 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=ezequielmuller&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielmuller&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true)
 
-</p>
+## 🏆 Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ezequielmuller&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=ezequielmuller&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
