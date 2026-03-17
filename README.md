@@ -1,8 +1,7 @@
 <h1 align="center">Ezequiel H. G. Muller</h1>
 <p align="center">
   <strong>Full Stack Developer</strong> • 
-  <strong>Computer Science Student</strong> • 
-  <strong>IT Technician</strong>
+  <strong>Computer Science Student</strong>
 </p>
 
 ## 📫 Contact
