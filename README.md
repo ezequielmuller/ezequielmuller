@@ -1,17 +1,17 @@
 <h1 align="center">Ezequiel H. G. Muller</h1>
 <p align="center">
-  <strong>Full Stack Developer</strong> • 
-  <strong>Computer Science Student</strong>
+  <strong>Desenvolvedor Full Stack</strong> • 
+  <strong>Graduando Ciência da Computação</strong>
 </p>
 
-## 📫 Contact
+## 📫 Fale Comigo
 - 🌐 Portfolio: https://ezequielmuller.com.br  
 - 💼 LinkedIn: https://www.linkedin.com/in/ezequielhgmuller/
 - 📲 Instagram: https://www.instagram.com/ezequielmuller__/
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 <p align="center">
   <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ezequielmuller&layout=compact&theme=tokyonight&hide_border=true" /> 
 </p>
@@ -25,12 +25,12 @@
   <img src="https://skillicons.dev/icons?i=js,vuejs,tailwind&theme=dark" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Banco de Dados
 <p>
   <img src="https://skillicons.dev/icons?i=java,postgresql,mysql&theme=dark" />
 </p>
 
-### 🛠️ Tools
+### 🛠️ Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 </p>
