@@ -20,7 +20,7 @@
 
 ## 🛠️ Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,vuejs,postgresql,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,vuejs,postgresql,git&theme=dark" />
 </p>
 
 ---
