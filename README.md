@@ -18,21 +18,9 @@
 
 ---
 
-## 🛠️ Stack
-
-### 🖥️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,vuejs,tailwind&theme=dark" />
-</p>
-
-### ⚙️ Backend & Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=java,postgresql,mysql&theme=dark" />
-</p>
-
-### 🛠️ Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+## 🛠️ Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,vuejs,postgresql,sql&theme=dark" />
 </p>
 
 ---
