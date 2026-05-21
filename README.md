@@ -1,9 +1,4 @@
 <h1 align="center">Ezequiel H. G. Muller</h1>
-<h3 align="center">
-  Full Stack Developer focused on Backend Development
-</h3>
-
----
 
 ## 👨‍💻 About Me
 
