@@ -1,4 +1,4 @@
-<h1 align="center">Ezequiel H. G. Muller</h1>
+<h1 align="center">Ezequiel H. G. Müller</h1>
 
 ## 👨‍💻 About Me
 
